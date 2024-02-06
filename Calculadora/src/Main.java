@@ -25,10 +25,8 @@ public class Main {
         }
         return null;
     }
-
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
-
         System.out.println("Calculadora");
         System.out.println("Digite o primeiro numero: ");
         double num1 = scanner.nextDouble();
